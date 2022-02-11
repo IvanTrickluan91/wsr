@@ -28,6 +28,9 @@
 
 ![photo_2022-02-11_20-53-58](https://user-images.githubusercontent.com/97450080/153624127-4c21051c-b880-4912-9b36-d693b4d94884.jpg)
 
+![image](https://user-images.githubusercontent.com/97450080/153630959-23e4040b-fa5b-4602-9d6e-5a4b2ceb7f34.png)
+
+
 еще какието трансфер зоны
 
 
