@@ -121,3 +121,26 @@ CTRL+M
 
 ![image](https://user-images.githubusercontent.com/97450080/153920182-134c218c-773e-4b4b-a5c8-5671d2a2e962.png)
 CA
+
+
+timedatectl проверка времени
+timedatectl set-timezone Europe/Moscow
+
+iptables -t nat -A POSTROUTING -s 0.0.0.0/0 -o ens192 -j MASQUERADE
+
+echo net.ipv4.ip_forward=1 > /etc/sysctl.conf
+sysctl -p
+
+
+----------
+
+
+ansible all -m ping
+
+git config --global user.name "Name" 
+git config --global user.email email@mail.ru
+git add . - добавляешь в отслеживаемое
+git ls-files - посмотреть отслеживаемые файлы
+git commit - подтверждаешь изменения
+git remote add origin <URL>
+git push --set-upstream origin master - отправляешь в гит
